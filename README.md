@@ -1,5 +1,8 @@
 # LATIHAN5DPBO2023
 ## Janji
+Saya Mia Karisma Haq NIM [2102165] mengerjakan soal Latihan Praktikum-5 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
+## Deskripsi Program
+Membuat file jar untuk CRUD form Daftar Mahasiswa dengan menambahkan fitur konfirmasi sebelum penghapusan data, memperbaharui tampilan tabel setelah dilakukan ubah dan hapus data, dan reset form.
 ## Desain Program
 ## Penjelasan Desain Program
 ## Penjelasan Alur
